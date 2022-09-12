@@ -26,7 +26,7 @@ dashgo .
 
 ```
 # Clonning
-git clone https://github.com/kieis/worldtrip
+git clone https://github.com/kieis/dashgo
 
 # Create .env.local
 # Create the API variable, example:
