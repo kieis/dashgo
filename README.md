@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> 
+dashgo .
+</h1>
 
-## Getting Started
+<h4 align="center">Project made with nextjs, chakra ui and fake backend with miragejs.</h4>
 
-First, run the development server:
+<h4 align="center"> 
+<image width="45%" src="https://i.imgur.com/EPpVqMR.png" />
+<image width="45%" src="https://i.imgur.com/AZ17HQ0.png" />
+</h4>
 
-```bash
+<h3 align="center">Technologyes</h3>
+<h5 align="center">
+<a href="https://nextjs.org" target="_blank">Nextjs</a> - 
+<a href="https://chakra-ui.com" target="_blank">Chakra UI</a> - 
+<a href="https://axios-http.com/ptbr/docs/intro" target="_blank">Axios</a> - 
+<a href="https://apexcharts.com" target="_blank">Apexchart</a> - 
+<a href="https://tanstack.com/query/v4/docs/overview" target="_blank">React-Query</a> - 
+<a href="https://miragejs.com" target="_blank">Miragejs</a> - 
+<a href="https://fakerjs.dev target="_blank">Fakerjs</a> - 
+<a href="https://github.com/jquense/yup" target="_blank">Yup</a> - 
+<a href="https://www.typescriptlang.org" target="_blank">Typescript</a>
+</h5>
+
+<h3 align="center">Running</h3>
+
+```
+# Clonning
+git clone https://github.com/kieis/worldtrip
+
+# Create .env.local
+# Create the API variable, example:
+API_BASE_URL = http://localhost:3000/api/
+
+# Run
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h3 align="center">Demonstration</h3>
+<h4 align="center"><a href="" target="_blank">Vercel App</a></h4>
